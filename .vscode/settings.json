@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Program Files (x86)\\MySQL\\MySQL Installer for Windows\\mysql-connector-java-5.1.42-bin.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Dell\\OneDrive\\Desktop\\Course-Management-System-Project-in-Java-Source-Code\\Course Management System Project in Java Source Code\\mysql-connector-java-5.1.42-bin.jar"
+        ]
+    }
+}
